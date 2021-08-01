@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wow-rabbit.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-08-01T08:40:41.735Z</updated>
+    <title>小兔几魔法店</title>
+    <updated>2021-08-01T08:57:12.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wow-rabbit.github.io"/>
     <link rel="self" href="https://wow-rabbit.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>github建立的网站</subtitle>
     <logo>https://wow-rabbit.github.io/images/avatar.png</logo>
     <icon>https://wow-rabbit.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 小兔几魔法店</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一篇博客]]></title>
+        <id>https://wow-rabbit.github.io/post/wo-de-di-yi-pian-bo-ke/</id>
+        <link href="https://wow-rabbit.github.io/post/wo-de-di-yi-pian-bo-ke/">
+        </link>
+        <updated>2021-08-01T08:47:16.000Z</updated>
+        <content type="html"><![CDATA[<p>建立自己的网站好难啊，要死了ing。。。。<br>
+看到别人的网站很奇怪有些有广告，是自己加上去的还是说被动加上去的？如果我自己的博客被动加上很多广告，那还不如。。。。不搞了，是吧。。。<br>
+自己建的网站应该是没什么人看的，我猜，貌似可以说一些自己想说的话，哈哈<br>
+最后，很感谢github和gridea，不用我自己买域名，然后上手非常方便，见到效果也很快。（github能快点登陆上去就好了，老是登不上，wwww）<br>
+这种网站会不会被封号？？？思考ing....</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wow-rabbit.github.io/post/hello-gridea/</id>
