@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>我的第一篇博客 | 小兔几魔法店</title>
-<link rel="shortcut icon" href="https://wow-rabbit.github.io/favicon.ico?v=1627862842165">
+<link rel="shortcut icon" href="https://wow-rabbit.github.io/favicon.ico?v=1627864544526">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://wow-rabbit.github.io/styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="我的第一篇博客 | 小兔几魔法店 - Atom Feed" href="https://wow-rabbit.github.io/atom.xml">
@@ -23,13 +23,13 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://wow-rabbit.github.io">
-  <img class="avatar" src="https://wow-rabbit.github.io/images/avatar.png?v=1627862842165" alt="">
+  <img class="avatar" src="https://wow-rabbit.github.io/images/avatar.png?v=1627864544526" alt="">
   </a>
   <h1 class="site-title">
     小兔几魔法店
   </h1>
   <p class="site-description">
-    我只是一只可爱的小兔几
+    真实是博客的生命力所在
   </p>
   <div class="menu-container">
     
@@ -110,6 +110,32 @@
 
         
 
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '87ceb4c57c5c3d86fa05',
+    clientSecret: '37da7d922adf6acac806ed1fc19b30e1eee22596',
+    repo: 'wow-rabbit.github.io',
+    owner: 'wow-rabbit',
+    admin: ['wow-rabbit'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
         
 
         <div class="site-footer">

@@ -2,14 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wow-rabbit.github.io</id>
     <title>小兔几魔法店</title>
-    <updated>2021-08-02T00:19:39.066Z</updated>
+    <updated>2021-08-02T00:35:49.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wow-rabbit.github.io"/>
     <link rel="self" href="https://wow-rabbit.github.io/atom.xml"/>
-    <subtitle>我只是一只可爱的小兔几</subtitle>
+    <subtitle>真实是博客的生命力所在</subtitle>
     <logo>https://wow-rabbit.github.io/images/avatar.png</logo>
     <icon>https://wow-rabbit.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小兔几魔法店</rights>
+    <entry>
+        <title type="html"><![CDATA[github+gridea打开评论区]]></title>
+        <id>https://wow-rabbit.github.io/post/githubgridea-da-kai-ping-lun-qu/</id>
+        <link href="https://wow-rabbit.github.io/post/githubgridea-da-kai-ping-lun-qu/">
+        </link>
+        <updated>2021-08-02T00:26:06.000Z</updated>
+        <content type="html"><![CDATA[<p>看这篇文章就可以了惹<br>
+<a href="https://zhuanlan.zhihu.com/p/71681116">https://zhuanlan.zhihu.com/p/71681116</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不会代码也能建自己的博客😝]]></title>
         <id>https://wow-rabbit.github.io/post/bu-hui-dai-ma-ye-neng-jian-zi-ji-de-bo-ke/</id>
