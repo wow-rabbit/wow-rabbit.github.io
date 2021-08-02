@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wow-rabbit.github.io</id>
     <title>小兔几魔法店</title>
-    <updated>2021-08-02T02:36:12.896Z</updated>
+    <updated>2021-08-02T02:38:52.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wow-rabbit.github.io"/>
     <link rel="self" href="https://wow-rabbit.github.io/atom.xml"/>
-    <subtitle>真实是博客的生命力所在</subtitle>
+    <subtitle>真实是本店的生命力所在</subtitle>
     <logo>https://wow-rabbit.github.io/images/avatar.png</logo>
     <icon>https://wow-rabbit.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小兔几魔法店</rights>
