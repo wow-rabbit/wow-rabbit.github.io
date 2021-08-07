@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wow-rabbit.github.io</id>
     <title>小兔几魔法店</title>
-    <updated>2021-08-07T06:11:06.024Z</updated>
+    <updated>2021-08-07T06:27:54.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wow-rabbit.github.io"/>
     <link rel="self" href="https://wow-rabbit.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://wow-rabbit.github.io/images/avatar.png</logo>
     <icon>https://wow-rabbit.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小兔几魔法店</rights>
+    <entry>
+        <title type="html"><![CDATA[今天遇到的好事]]></title>
+        <id>https://wow-rabbit.github.io/post/jin-tian-yu-dao-de-hao-shi/</id>
+        <link href="https://wow-rabbit.github.io/post/jin-tian-yu-dao-de-hao-shi/">
+        </link>
+        <updated>2021-08-07T06:12:44.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>gridea的同步成功了，我的小兔几网站终于更新了，害，真的太难了，这几天时不时地就点了一下同步，今天竟然第二次点就同步成功了，真的太开心了。</li>
+<li>虽然citavi因为一系列不可描述的原因只能忍痛弃坑了，但是，我在看citavi的教学视频时听博主的介绍知道了一个国家精品课，看起来还是很牛逼的样子。搜索即可得——<font color=red>中国大学MOOC，《文献管理与信息分析》，罗昭锋</font>。主要是一个评论让我很心动：这些都是研究生导师不会教你的。😂</li>
+<li>我发现gridea的搬文件真的太方便了，gridea就像是一个文件夹阅读器。简单来说，我把原来放在c盘的<strong>gridea文件夹</strong>剪切到d盘后，打开gridea软件，里面空空如也，再之后在gridea软件里修改”站点源文件路径“，之前写的博客又恢复上来了。最后，把我放在d盘的<strong>gridea文件夹</strong>用百度网盘同步起来，这样就可以放心啦！之前一直担心没有同步到github上，哪天电脑坏了，我的数据就丢失了，现在不用怕了，开心。顺便一提，之前在网上看到的<a href="https://www.penghh.fun/2021/07/10/2021-7-10-databackup/">https://www.penghh.fun/2021/07/10/2021-7-10-databackup/</a>，如果用gridea写博的话，每次同步到github都会把github上的原文件覆盖一次，所以以后单纯用gridea就行，<font color=red>如果要改用gridea以外的工具写博客，要注意备份，不然你改回gridea写博的话，之前写的东西会被覆盖掉。</font></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伤心太平洋 | 今日没能解决的二三事 ]]></title>
         <id>https://wow-rabbit.github.io/post/shang-xin-tai-ping-yang-or-jin-ri-mei-neng-jie-jue-de-er-san-shi/</id>
@@ -116,37 +129,6 @@
 </ul>
 <h1 id="最后">最后</h1>
 <p>本来很喜欢这种游戏的，应该也可以说是梦中的游戏了，超高的自由度，没有什么明确的目标，但是，主要还是因为这些布偶吧……不。够。好。看。😂</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《萌宅物语》：开局就是选老公😝]]></title>
-        <id>https://wow-rabbit.github.io/post/you-xi-meng-zhai-wu-yu/</id>
-        <link href="https://wow-rabbit.github.io/post/you-xi-meng-zhai-wu-yu/">
-        </link>
-        <updated>2021-08-02T09:17:55.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>《萌宅物语》和《月兔历险记》是同一个开发者（我看app store里是这样显示的），所以，也是一句话总结这个游戏：<strong>无聊但很有爱</strong>。</p>
-<h1 id="游戏的特色">游戏的特色</h1>
-<ul>
-<li>很小清新+温馨。小清新是源于简单的画风和简洁的界面，温馨是因为里面有家、爱人、猫，很符合女孩子/男孩子梦中的样子。</li>
-<li>佛系放置+简单操作。布置小家+云撸猫的游戏有很多，但很少像这种不用肝关卡，纯佛系收爱心（这个游戏里的货币是爱心值）的游戏。有点像《旅行青蛙》和《猫咪后院》，但是又增加了布置小家和云撸猫的玩法，更重要的是，你有一个男朋友🙂。你可以观察一下游戏中的你和你男朋友在做什么🙂。</li>
-<li>开局即分配男女朋友。四男四女里选两个进行同居，可以男男，也可以女女，是不是很好地满足了你的幻想呢🙂。</li>
-<li>游戏里就一种货币+没有强行的广告。这种游戏在今看来真的太少了，只有一种货币（也就是爱心值），真是一种单纯的快乐。</li>
-</ul>
-<h1 id="游戏的不足">游戏的不足</h1>
-<p><em>其实也不叫不足，因为我觉得这个游戏弄得太复杂可能还适得其反。</em></p>
-<ul>
-<li>撸猫游戏里，猫的反应没有套路可寻。感觉全看运气，你不知道戳这只童畜无害的小猫，它到底什么时候是对你喵喵叫🤗，什么时候是对你喵喵叫😠。</li>
-<li>误点广告后没有返回按钮，不想看广告的话只能退出游戏再重新进入，而且你玩完游戏后原本有的奖励也没有给你加进去。</li>
-<li>无聊。没什么地方可点的，除了撸猫、喂猫、喂老公、装扮房子、收一下爱心，没有其他事情可以做了。</li>
-</ul>
-<h1 id="对比月兔历险记">对比《月兔历险记》</h1>
-<ul>
-<li>广告植入不会出戏。《月兔历险记》里，敲你门的的和匆匆路过的，你若去点他们可能都是广告，这种设定在游戏里可以理解（类似现实里的各种推销员），但会让玩家有点出戏。不过习惯了也还好。而《萌宅物语》里就很正常，会直接多一个选项问你要不要“看广告得双倍奖励”，你不点就行。</li>
-<li>玩家可以更纯粹地观察角色。《月兔历险记》里，你切换地图，你的月兔会出现在新的地图里。比如刚刚月兔还在吃面，可能只吃了一口呢，你切换下地图，它就出现在家里睡觉了😂（挺写实的哈）。而《萌宅物语》就不会，你选的人物刚刚在花园荡秋千，切换到客厅的地图，她还是会在花园荡秋千，而不会出现在客厅里干着一件新的事情。</li>
-</ul>
-<h1 id="最后">最后</h1>
-<p>都是无聊但很有爱的游戏，但不推荐用破解版玩。这种和爱人同居+撸猫的游戏，用破解版的话估计只会一下玩腻，而且体会不到里面各种场景的温馨感。那就，祝大家玩得开心啰~</p>
 ]]></content>
     </entry>
 </feed>
